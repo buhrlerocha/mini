@@ -1,0 +1,115 @@
+/* HEADER */
+
+li {
+	display: inline-block;
+	list-style: none;
+	padding-left: 100px;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: #AFB2B3;
+}
+a:hover{
+	color:black;
+	font-size: 25px;
+}
+ul{
+	margin-left: 300px;
+}
+/* seccion primera */
+/* Inserta tu CSS aqui */
+.container-fluid {
+	background-image: url(../img/Picasso.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: 400px;
+}
+
+h1 {
+	color: white;
+}
+h4 {
+	color: white;
+}
+.box {
+	text-align: center;
+	background-color: rgba(43, 44, 44, 0.6);
+	width: 600px;
+	padding: 10px;
+	position: relative;
+	margin-left: 270px;
+}
+.sumate{
+	font-size: 20px;
+	padding: 15px 30px;
+	border-radius: 5px;
+}
+.sumate:hover{
+	color: white;
+	border-radius: 20px;
+
+}
+/* seccion segunda */
+.foto{
+	width: 350px;
+	height: 450px;
+	margin-left: 90px;
+	margin-top: 50px;
+}
+.parrafo{
+	color: black;
+	text-align: center;
+	margin: 20px;
+}
+.yoda{
+	background-color: rgba(43, 44, 44, 0.5);
+	padding: 5px;
+
+}
+.leer{
+	text-align: center;
+	font-size: 20px;
+	background-color: #44C7F2;
+	border: 1px solid #44C7F2;
+	margin-left: 220px;
+	border-radius: 5px;
+	padding: 5px;
+	margin-bottom: 30px;
+}
+.leer:hover{
+	background-color: white;
+	font-size: 20px;
+	color: black;
+}
+.segunda{
+	background-color: #CF8CDB;
+	margin-top: 20px;
+}
+.mover{
+	margin: -50px;
+	margin-top: 40px;
+}
+.caja{
+	background: yellow;
+	margin: 40px;
+	padding: 50px;
+}
+.aa{
+	margin-top: 70px;
+}
+.fox{
+	padding-top: 15px;
+}
+/* final */
+footer{
+	background-color: #1F6780;
+}
+.final{
+	color: white;
+	text-align: center;
+	padding: 10px;
+	background-color: #0A0A0A;
+}
